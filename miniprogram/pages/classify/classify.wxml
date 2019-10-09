@@ -1,2 +1,11 @@
 <!--pages/classify/classify.wxml-->
-<text>pages/classify/classify.wxml</text>
+<!-- 搜索栏 -->
+<view>
+  <view class="searchbar">
+  </view>
+  <image></image>
+
+  <view class="sort">
+  </view>
+</view>
+

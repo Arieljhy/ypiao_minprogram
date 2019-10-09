@@ -1,0 +1,22 @@
+{
+  "name": "ypiao_minprogram",
+  "version": "1.0.0",
+  "description": "this is a small program about ypiao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arieljhy/ypiao_minprogram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arieljhy/ypiao_minprogram/issues"
+  },
+  "homepage": "https://github.com/Arieljhy/ypiao_minprogram#readme",
+  "dependencies": {
+    "vant-weapp": "^1.0.0-beta.0"
+  }
+}

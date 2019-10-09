@@ -9,7 +9,7 @@
 		"newFeature": true,
 		"enhance": true
 	},
-	"appid": "wx9b198907dabec82e",
+	"appid": "wx79947816c562a492",
 	"projectname": "ypiao_minprogram",
 	"libVersion": "2.8.1",
 	"simulatorType": "wechat",
@@ -31,12 +31,26 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": 2,
 			"list": [
 				{
 					"id": -1,
 					"name": "db guide",
-					"pathName": "pages/databaseGuide/databaseGuide"
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/profile/profile",
+					"pathName": "pages/profile/profile",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/classify/classify",
+					"pathName": "pages/classify/classify",
+					"scene": null
 				}
 			]
 		}
